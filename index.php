@@ -6,6 +6,7 @@
 
 ?>
 <!DOCTYPE html>
+//hayes notes tracker
 <html>
     <head>
         <title>Notes App</title>
